@@ -1,0 +1,42 @@
+<body>
+<head>
+<h2>Hi {#KEY}</h2>
+
+<h2>Alert Report : {#KEY}/{#MAILD}</h2>
+<style>
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(even) {
+    background-color: #dddddd;
+}
+</style>
+</head>
+<body>
+
+<table>
+  <tr>
+    <th>Memory Limit({#MEM}%)</th>
+    <th>CPU Limit ({#CPU}%)</th>
+    <th>Process Limit({#PROCESS})</th>
+  </tr>
+  <tr>
+    <td>{#MEM_USGE}</td>
+    <td>{#CPU_USGE}</td>
+    <td>{#PROCESS_USGE}</td>
+  </tr>
+  </table>
+<h4>Please do the necessary things</h4>
+<h4>Admin</h4>
+
+</body>
+</html>

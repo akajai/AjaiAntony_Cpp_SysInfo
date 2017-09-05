@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<clients>
+<client key="DESKTOP-JLRGSHE" mail="ajaiantonykolarikal@yahoo.com">
+  <alert type="memory" limit="10%" />
+  <alert type="cpu" limit="10%" />
+  <alert type="processes" limit="10" />
+</client>
+<client key="PC2" mail="ajaiantonykolarikal@yahoo.com">
+  <alert type="memory" limit="20%" />
+  <alert type="cpu" limit="20%" />
+  <alert type="processes" limit="20" />
+</client>
+<client key="PC03" mail="ajaiantonykolarikal@yahoo.com">
+  <alert type="memory" limit="30%" />
+  <alert type="cpu" limit="30%" />
+  <alert type="processes" limit="30" />
+</client>
+<client key="PC04" mail="inbox.myname@gmail.com">
+  <alert type="memory" limit="40%" />
+  <alert type="cpu" limit="40%" />
+  <alert type="processes" limit="40" />
+</client>
+</clients>

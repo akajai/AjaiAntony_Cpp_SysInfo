@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  ServerApp.cpp
+f:\work-job\c++ - chief software architect\arcitect\serverapp\serverapp\serverapp.cpp(28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  ServerApp.vcxproj -> F:\Work-job\C++ - Chief Software Architect\Arcitect\ServerApp\Debug\ServerApp.exe
+  ServerApp.vcxproj -> F:\Work-job\C++ - Chief Software Architect\Arcitect\ServerApp\Debug\ServerApp.pdb (Full PDB)

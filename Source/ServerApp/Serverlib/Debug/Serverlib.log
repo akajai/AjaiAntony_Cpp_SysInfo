@@ -1,0 +1,7 @@
+﻿  stdafx.cpp
+  Utils.cpp
+  NOTE: Use of this header (bool_trait_def.hpp) is deprecated
+  NOTE: Use of this header (template_arity_spec.hpp) is deprecated
+  NOTE: Use of this header (template_arity_spec.hpp) is deprecated
+f:\work-job\c++ - chief software architect\arcitect\serverapp\serverlib\utils.cpp(89): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Serverlib.vcxproj -> F:\Work-job\C++ - Chief Software Architect\Arcitect\ServerApp\Debug\Serverlib.lib

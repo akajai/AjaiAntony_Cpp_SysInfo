@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ServerUnitTest::ServerUnitTest">
+    <Position X="0.5" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAoAAEAQAIAAQAAAAAAAAgAIAgAAAAAAAQSAUAABAI=</HashCode>
+      <FileName>UtilsTest.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Microsoft::VisualStudio::CppUnitTestFramework::TestClass&lt;T&gt;" Collapsed="true">
+    <Position X="4" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAAAABAAAQAAAAAABAAAAQAAAAAAAAA=</HashCode>
+      <FileName>c:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\UnitTest\include\CppUnitTest.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,6 @@
+﻿  stdafx.cpp
+  ClientUtils.cpp
+f:\work-job\c++ - chief software architect\arcitect\clientapp\clientlib\clientutils.h(19): warning C4244: 'initializing': conversion from 'double' to 'const long', possible loss of data
+f:\work-job\c++ - chief software architect\arcitect\clientapp\clientlib\clientutils.cpp(76): warning C4244: '=': conversion from 'DWORDLONG' to 'double', possible loss of data
+f:\work-job\c++ - chief software architect\arcitect\clientapp\clientlib\clientutils.cpp(115): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Clientlib.vcxproj -> F:\Work-job\C++ - Chief Software Architect\Arcitect\ClientApp\Debug\Clientlib.lib
